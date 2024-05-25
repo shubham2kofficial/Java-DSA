@@ -28,6 +28,8 @@ public class FunctionQ7 {
 
         // - Primes in Range
         primesInRange(50);
+
+        primesInRange(100);
     }
 
 }
