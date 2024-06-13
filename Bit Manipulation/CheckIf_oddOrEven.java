@@ -10,7 +10,7 @@ public class CheckIf_oddOrEven {
         } else {
             System.out.println("odd Nuber");
         }
-    }0
+    }
     
 
    public static void main(String[] args) {
