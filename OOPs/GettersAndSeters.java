@@ -29,6 +29,9 @@ public class GettersAndSeters {
 // Set :- To Modify the value.
 
 // this :- this keyword is used to refer to the current object.
+
+// Encapsulation :- Encasulation is defined as the wrapping up of Data & Methods under a Single Unit. It also Implemets Data Hiding.
+
 class Pen{
     private String color;
     private int tip;
