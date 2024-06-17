@@ -1,7 +1,7 @@
 package OOPs;
 
 // Hierarchial Inharitance 
-public class hierarchial_Inharitance {
+public class hierarchial_Inheritance {
 
     public static void main(String[] args) {
 
