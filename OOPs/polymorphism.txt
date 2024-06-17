@@ -1,0 +1,10 @@
+Polymorphism (Many forms) 
+
+Java Polymorphism is the ability of an object to take on many forms. It is a fundamental concept in Object-Oriented Programming (OOP) that allows an object of a class to behave like an object of a different class.
+
+1. Compile Time Polymorphism 
+    # Method Overloading
+
+
+2. Run Time Polymorphism 
+    # Method Overriding
