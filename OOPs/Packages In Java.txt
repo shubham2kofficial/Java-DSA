@@ -1,0 +1,6 @@
+Packages : Package is a group of Similar types of Classes, Interfaces and Sub-Packages.
+
+types of packages :
+
+1. Inbuilt 
+2. User defiend
